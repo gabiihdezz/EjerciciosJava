@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+    <alumno>
+        <nombre>Ana García</nombre>
+        <edad>20</edad>
+        <nota>8.5</nota>
+    </alumno>
+    <alumno>
+        <nombre>Juan Pérez</nombre>
+        <edad>22</edad>
+        <nota>7.0</nota>
+    </alumno>
+    <alumno>
+        <nombre>Lucía Fernández</nombre>
+        <edad>19</edad>
+        <nota>9.2</nota>
+    </alumno>
+    <alumno>
+        <nombre>Mario López</nombre>
+        <edad>21</edad>
+        <nota>6.8</nota>
+    </alumno>
+    <alumno>
+        <nombre>Carlos Martínez</nombre>
+        <edad>23</edad>
+        <nota>5.9</nota>
+    </alumno>
+    <alumno>
+        <nombre>Elena Torres</nombre>
+        <edad>20</edad>
+        <nota>8.0</nota>
+    </alumno>
+    <alumno>
+        <nombre>Patricia Sánchez</nombre>
+        <edad>22</edad>
+        <nota>7.3</nota>
+    </alumno>
+    <alumno>
+        <nombre>David Gómez</nombre>
+        <edad>21</edad>
+        <nota>6.5</nota>
+    </alumno>
+    <alumno>
+        <nombre>Sofía Ruiz</nombre>
+        <edad>19</edad>
+        <nota>9.0</nota>
+    </alumno>
+    <alumno>
+        <nombre>Andrés Navarro</nombre>
+        <edad>20</edad>
+        <nota>8.8</nota>
+    </alumno>
+    <alumno>
+        <nombre>Laura Moreno</nombre>
+        <edad>21</edad>
+        <nota>7.9</nota>
+    </alumno>
+    <alumno>
+        <nombre>Javier Castro</nombre>
+        <edad>22</edad>
+        <nota>6.2</nota>
+    </alumno>
+    <alumno>
+        <nombre>Carolina Ortiz</nombre>
+        <edad>19</edad>
+        <nota>9.1</nota>
+    </alumno>
+    <alumno>
+        <nombre>Rafael Méndez</nombre>
+        <edad>23</edad>
+        <nota>5.7</nota>
+    </alumno>
+    <alumno>
+        <nombre>María León</nombre>
+        <edad>20</edad>
+        <nota>8.3</nota>
+    </alumno>
+    <alumno>
+        <nombre>Alberto Ramos</nombre>
+        <edad>21</edad>
+        <nota>6.9</nota>
+    </alumno>
+    <alumno>
+        <nombre>Isabel Romero</nombre>
+        <edad>22</edad>
+        <nota>7.5</nota>
+    </alumno>
+    <alumno>
+        <nombre>Hugo Delgado</nombre>
+        <edad>20</edad>
+        <nota>8.7</nota>
+    </alumno>
+    <alumno>
+        <nombre>Silvia Vega</nombre>
+        <edad>19</edad>
+        <nota>9.4</nota>
+    </alumno>
+</alumnos>

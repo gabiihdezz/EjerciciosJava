@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<empleados>
+    <empleado>
+        <nombre>Ana Gómez</nombre>
+        <edad>35</edad>
+        <departamento>Recursos Humanos</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Juan Martínez</nombre>
+        <edad>42</edad>
+        <departamento>Finanzas</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Lucía Fernández</nombre>
+        <edad>29</edad>
+        <departamento>Marketing</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Mario López</nombre>
+        <edad>38</edad>
+        <departamento>Desarrollo</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Carlos Sánchez</nombre>
+        <edad>45</edad>
+        <departamento>Ventas</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Elena Torres</nombre>
+        <edad>30</edad>
+        <departamento>Calidad</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Patricia Romero</nombre>
+        <edad>33</edad>
+        <departamento>Soporte Técnico</departamento>
+    </empleado>
+    <empleado>
+        <nombre>David Gómez</nombre>
+        <edad>27</edad>
+        <departamento>IT</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Sofía Navarro</nombre>
+        <edad>31</edad>
+        <departamento>Logística</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Andrés Morales</nombre>
+        <edad>39</edad>
+        <departamento>Compras</departamento>
+    </empleado>
+
+    <empleado>
+        <nombre>Laura Ruiz</nombre>
+        <edad>28</edad>
+        <departamento>Investigación y Desarrollo</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Ricardo Torres</nombre>
+        <edad>40</edad>
+        <departamento>Producción</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Beatriz Morales</nombre>
+        <edad>37</edad>
+        <departamento>Recursos Humanos</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Pedro Castro</nombre>
+        <edad>45</edad>
+        <departamento>Ventas</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Carmen Díaz</nombre>
+        <edad>32</edad>
+        <departamento>Marketing</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Antonio Blanco</nombre>
+        <edad>50</edad>
+        <departamento>Calidad</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Silvia Herrera</nombre>
+        <edad>34</edad>
+        <departamento>Ventas</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Felipe Álvarez</nombre>
+        <edad>26</edad>
+        <departamento>Ventas</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Paula Mendoza</nombre>
+        <edad>29</edad>
+        <departamento>Soporte Técnico</departamento>
+    </empleado>
+    <empleado>
+        <nombre>Manuel Castillo</nombre>
+        <edad>36</edad>
+        <departamento>IT</departamento>
+    </empleado>
+</empleados>
